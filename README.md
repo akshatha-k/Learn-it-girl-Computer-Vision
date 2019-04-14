@@ -1,1 +1,3 @@
-# Learn-it-girl-ml
+# Alternative
+Image Classification
+learning 
